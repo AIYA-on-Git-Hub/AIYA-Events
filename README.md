@@ -3,9 +3,9 @@
 This repository serves as the official, foundational entry point for local school chapters of the **AI Youth Alliance (AIYA)**. It contains structured exercises, problem sets, and framework starter kits used during **AIYA Literacy Week**.
 
 ## 📁 Repository Structure - UNDER CONSTRUCTION
-*   `/literacy-week/` - A series of challenges and exercises that highlight the pathologies and potential of AI.
-*   `/hackathon/` - Modeling and building challenges and data sets.
-*   `/impact-symposium/` - Instrucgtions, requirements and guidelines for project submissions.
+*   `/literacy-week-toolkit/` - A series of challenges and exercises that highlight the pathologies and potential of AI.
+*   `/hackathon-toolkit/` - Modeling and building challenges and data sets.
+*   `/impact-symposium-toolkit/` - Instrucgtions, requirements and guidelines for project submissions.
 
 ## ⚠️ Academic Notice & Cognitive Well-Being
 In alignment with recent cognitive science research (including landmark studies from MIT), AIYA explicitly warns against over-reliance on generative tooling. Offloading critical thought to automated systems causes measurable atrophy in analytical capacity, genuine subject mastery, and real authorship. 
